@@ -52,7 +52,8 @@
               "name": "CMSIS-Atmel",
               "version": "1.2.0"
             }
-          ],
+          ]
+        },
         "tools":[
                 {
                   "name": "bossac",
