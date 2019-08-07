@@ -14,10 +14,10 @@
           "architecture": "samd",
           "version": "1.1.1",
           "category": "Contributed",
-          "url": "https://github.com/roboticagolem/bootloader/blob/gh-pages/roboticagolemv1.tar.bz2?raw=true",
+          "url": "https://github.com/roboticagolem/bootloader/blob/gh-pages/roboticagolemv2.tar.bz2?raw=true",
           "archiveFileName": "roboticagolem.tar.bz2",
-          "checksum": "SHA-256:78782b43f42a2790c3281def8e275d276eb9590003bc1c5f671101a6d056cd79",
-          "size": "256300",
+          "checksum": "SHA-256:d105daf1f41e329644c0543ef58864e1ed0f1625d93c138363dd91027a8a7b91",
+          "size": "258048",
           "help": {
             "online": "http://roboticagolem.com"
           },
@@ -52,8 +52,10 @@
               "name": "CMSIS-Atmel",
               "version": "1.2.0"
             }
-          ],
-  "tools":[
+          ]
+        }
+      ],
+      "tools":[
                 {
                   "name": "bossac",
                   "version": "1.4.0",
@@ -81,5 +83,7 @@
                     }
                   ]
                 }
-    ],
+      ]
+    }
+  ]
 }
