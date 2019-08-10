@@ -23,7 +23,7 @@
           },
           "boards": [
             {
-              "name": "Golem"
+              "name": "golem"
             }
           ],
           "toolsDependencies": [
