@@ -14,8 +14,8 @@
           "architecture": "samd",
           "version": "1.1.1",
           "category": "Contributed",
-          "url": "https://github.com/roboticagolem/bootloader/raw/gh-pages/roboticagolem.tar.bz2",
-          "archiveFileName": "roboticagolem.tar.bz2",
+          "url": "https://github.com/roboticagolem/bootloader/raw/gh-pages/roboticagolem_samd21.tar.bz2",
+          "archiveFileName": "roboticagolem_samd21.tar.bz2",
           "checksum": "SHA-256:0a25f49eeb9d028bf16e28a54063e0bfd686d8e292749a0b986815fd6342c062", 
           "size": "258048",
           "help": {
