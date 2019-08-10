@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/roboticagolem/bootloader/raw/gh-pages/roboticagolem_samd21.tar.bz2",
           "archiveFileName": "roboticagolem_samd21.tar.bz2",
-          "checksum": "SHA-256:cd5e74d4f7a3731e71da093a8d35bf1b7d6cb10b610c12f42126ca2ad24f7d43", 
+          "checksum": "SHA-256:7c8f468180e9f06f0ae412bf2a82116a5b56e96a42ce8c15fab94e09a20cc5db", 
           "size": "258048",
           "help": {
             "online": "http://roboticagolem.com"
