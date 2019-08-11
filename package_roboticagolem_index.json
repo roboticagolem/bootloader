@@ -5,7 +5,7 @@
       "maintainer": "Robotica Golem",
       "websiteURL": "http://roboticagolem.com",
       "email": "hola@roboticagolem.com",
-      "help": {
+      "help": { 
         "online": "http://roboticagolem.com"
       },
       "platforms": [
@@ -14,10 +14,10 @@
           "architecture": "samd",
           "version": "1.1.1",
           "category": "Contributed",
-          "url": "https://github.com/roboticagolem/bootloader/raw/gh-pages/roboticagolem_samd21.tar.bz2",
-          "archiveFileName": "roboticagolem_samd21.tar.bz2",
-          "checksum": "SHA-256:434d294286d36893ce5320a98709019338eb87ad7650c9018cd81ed7f5362510", 
-          "size": "258048",
+          "url": "https://github.com/ElectronicCats/Arduino_Boards_Index/raw/gh-pages/IDE_Board_Manager/electroniccats-samd-v1.1.1.tar.bz2",
+          "archiveFileName": "electroniccats-samd-v1.1.1.tar.bz2",
+          "checksum": "SHA-256:55fc491bb412fdc1b6ee8443aa5b60f9d3bf82174486dc404421754fa1d36c4b",
+          "size": "278261",
           "help": {
             "online": "http://roboticagolem.com"
           },
