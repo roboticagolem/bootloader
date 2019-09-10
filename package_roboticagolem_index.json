@@ -14,10 +14,10 @@
           "architecture": "samd",
           "version": "1.1.1",
           "category": "Contributed",
-          "url": "https://github.com/ElectronicCats/Arduino_Boards_Index/raw/gh-pages/IDE_Board_Manager/electroniccats-samd-v1.1.1.tar.bz2",
+          "url": "https://github.com/roboticagolem/bootloader/blob/gh-pages/golem-samd-v1.1.1.tar.bz2?raw=true",
           "archiveFileName": "golem-samd-v1.1.1.tar.bz2",
           "checksum": "SHA-256:ca1ad1fbdf29593697f2ba32c1ab70fc4a69bff37f0f499a3426220cca7820db",
-          "size": "278261",
+          "size": "230928",
           "help": {
             "online": "http://roboticagolem.com"
           },
