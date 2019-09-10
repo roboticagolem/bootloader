@@ -15,8 +15,8 @@
           "version": "1.1.1",
           "category": "Contributed",
           "url": "https://github.com/ElectronicCats/Arduino_Boards_Index/raw/gh-pages/IDE_Board_Manager/electroniccats-samd-v1.1.1.tar.bz2",
-          "archiveFileName": "electroniccats-samd-v1.1.1.tar.bz2",
-          "checksum": "SHA-256:55fc491bb412fdc1b6ee8443aa5b60f9d3bf82174486dc404421754fa1d36c4b",
+          "archiveFileName": "golem-samd-v1.1.1.tar.bz2",
+          "checksum": "SHA-256:ca1ad1fbdf29593697f2ba32c1ab70fc4a69bff37f0f499a3426220cca7820db",
           "size": "278261",
           "help": {
             "online": "http://roboticagolem.com"
