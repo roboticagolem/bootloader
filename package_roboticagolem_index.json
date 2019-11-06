@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/roboticagolem/bootloader/blob/gh-pages/golem-samd-v1.1.1.tar.bz2?raw=true",
           "archiveFileName": "golem-samd-v1.1.1.tar.bz2",
-          "checksum": "SHA-256:ca1ad1fbdf29593697f2ba32c1ab70fc4a69bff37f0f499a3426220cca7820db",
-          "size": "230928",
+          "checksum": "SHA-256:1786d444ee130b59e1565553a3dd43d44ecf1256d32e0dab280248a9622c2288",
+          "size": "198818",
           "help": {
             "online": "http://roboticagolem.com"
           },
